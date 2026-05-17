@@ -1,0 +1,7 @@
+asl-alphabet.zip
+asl_alphabet_train/
+sign_model.h5
+labels.pkl
+*.zip
+__pycache__/
+venv/

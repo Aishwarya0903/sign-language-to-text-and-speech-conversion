@@ -1,0 +1,9 @@
+opencv-python
+numpy
+tensorflow
+scikit-learn
+joblib
+pyttsx3
+Pillow
+matplotlib
+gTTS
